@@ -13,7 +13,7 @@ export default class Birthdaylist extends Component{
     },
     {
       id: 2,
-      name: 'Hester Hogan',
+      name1: 'Hester Hogan',
       age: 32,
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
